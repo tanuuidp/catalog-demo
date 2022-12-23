@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: crm
+  description: crm
+spec:
+  type: team
+  profile:
+    displayName: crm
+  children: []

@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: Components
+  description: Components (those that have a git repo, others are resources)
+spec:
+  targets:
+  - ./components/Component-e-services.yaml
+  - ./components/Component-extLDAP.yaml
+  - ./components/Component-LoadRunner.yaml
+  - ./components/Component-CookieServices.yaml
+  - ./components/Component-InDesign.yaml
+  - ./components/Component-CoreBackend.yaml
+  - ./components/Component-CRM.yaml
+  - ./components/Component-Exchange.yaml
+  - ./components/Component-CoreDB.yaml
+  - ./components/Component-DataPlatform.yaml
+  - ./components/Component-MicrosoftAD.yaml
+  - ./components/Component-HoxHunt.yaml
+  - ./components/Component-SmsService.yaml

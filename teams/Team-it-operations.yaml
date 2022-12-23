@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: it-operations
+  description: it-operations
+spec:
+  type: team
+  profile:
+    displayName: it-operations
+  children: []
+  parent: cio-office

@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: extLDAP
+  description: "LDAP directory for user data storage."
+
+spec:
+  type: Support System
+  lifecycle: Minimize development
+  owner: it-operations
+  partOf: 
+  hasPart: []

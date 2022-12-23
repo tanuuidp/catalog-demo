@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: InDesign
+  description: "Via Adobe Creative Cloud"
+
+spec:
+  type: Development lifecycle tool
+  lifecycle: Active
+  owner: digitalmarketing
+  partOf: Adobe Creative Cloud
+  hasPart: []

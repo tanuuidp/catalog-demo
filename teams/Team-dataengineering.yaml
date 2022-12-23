@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dataengineering
+  description: dataengineering
+spec:
+  type: team
+  profile:
+    displayName: dataengineering
+  children: []
+  parent: cio-office

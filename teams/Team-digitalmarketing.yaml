@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: digitalmarketing
+  description: digitalmarketing
+spec:
+  type: team
+  profile:
+    displayName: digitalmarketing
+  children: []

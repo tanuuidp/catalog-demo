@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: MicrosoftAD
+  description: "AD permissions federation service"
+
+spec:
+  type: Support System
+  lifecycle: Active
+  owner: it-operations
+  partOf: Office365 O365
+  hasPart: []

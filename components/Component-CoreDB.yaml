@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: CoreDB
+  description: "NoSQL database"
+
+spec:
+  type: Support System
+  lifecycle: Active
+  owner: asset-management
+  partOf: 
+  hasPart: []

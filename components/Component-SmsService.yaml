@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: SmsService
+  description: "Sms sending capability"
+  tags:
+    - upnext
+    - intgit
+  links:
+    - url: https://git.acme.biz/projects/tecdev/repos/sms-service/browse
+      title: GitRepo
+      icon: web
+spec:
+  type: Operational System
+  lifecycle: Active
+  owner: tecdev
+  partOf: Centralized Customer Authentication
+  hasPart: []

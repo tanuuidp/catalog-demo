@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: LoadRunner
+  description: "Tool for load testing systems"
+
+spec:
+  type: Development lifecycle tool
+  lifecycle: Active
+  owner: quality
+  partOf: 
+  hasPart: []

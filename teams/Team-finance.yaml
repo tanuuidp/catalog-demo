@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: finance
+  description: finance
+spec:
+  type: team
+  profile:
+    displayName: finance
+  children: []

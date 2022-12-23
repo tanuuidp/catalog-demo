@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: HoxHunt
+  description: "Training tool for security"
+
+spec:
+  type: Operational System
+  lifecycle: Active
+  owner: cio-office
+  partOf: 
+  hasPart: []

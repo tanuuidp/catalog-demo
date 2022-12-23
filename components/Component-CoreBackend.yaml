@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: CoreBackend
+  description: "Centralized integration"
+
+spec:
+  type: Operational System
+  lifecycle: unknown
+  owner: integrations
+  partOf: 
+  hasPart: []

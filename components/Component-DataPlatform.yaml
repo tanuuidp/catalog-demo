@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: DataPlatform
+  description: "Data Lake environment"
+  tags:
+    - intgit
+  links:
+    - url: https://git.acme.biz/projects/DA
+      title: GitRepo
+      icon: web
+spec:
+  type: Support System
+  lifecycle: unknown
+  owner: dataengineering
+  partOf: 
+  hasPart: []

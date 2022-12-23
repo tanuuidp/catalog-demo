@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: integrations
+  description: integrations
+spec:
+  type: team
+  profile:
+    displayName: integrations
+  children: []

@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: e-services
+  description: "internal invoice management system"
+
+spec:
+  type: Operational System
+  lifecycle: unknown
+  owner: finance
+  partOf: 
+  hasPart: []

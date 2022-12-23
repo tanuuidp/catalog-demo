@@ -1,1 +1,1 @@
-# catalog-demo
+# demo-catalog

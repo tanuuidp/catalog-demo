@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: asset-management
+  description: asset-management
+spec:
+  type: team
+  profile:
+    displayName: asset-management
+  children: []
+  parent: cio-office
