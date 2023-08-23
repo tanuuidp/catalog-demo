@@ -7,4 +7,5 @@ spec:
   type: url
   targets:
     - https://github.com/tanuuidp/template-demo/blob/main/template.yaml
+    - https://github.com/tanuuidp/techdocs-demo/blob/main/template.yaml
     # - https://github.com/tanuuidp/env-template/blob/main/template.yaml
